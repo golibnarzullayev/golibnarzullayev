@@ -1,5 +1,5 @@
 ##  Narzullayev G'olib | Nodejs backend developer
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Backend+Developer;I'm+a+Node+JS+Developer;I'm+a+React+JS+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Backend+Developer;I'm+a+NodeJS+Developer;I'm+a+React+JS+Developer)
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
