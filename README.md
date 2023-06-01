@@ -19,7 +19,7 @@
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/gnarzullayev)
-[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/golibnarzullayev1)
+[![Linkedin](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Linkedin&logoColor=#E4405F)](https://www.linkedin.com/in/gnarzullayev1)
 
 
 
