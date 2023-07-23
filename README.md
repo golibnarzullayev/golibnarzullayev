@@ -4,7 +4,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/-Redis-082032?style=for-the-badge&logo=Redis&logoColor=47A248)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golibnarzullayev&langs_count=8&theme=vue)
