@@ -4,3 +4,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/-Redis-082032?style=for-the-badge&logo=Redis&logoColor=47A248)
+
+# Wakatime
+[![wakatime](https://wakatime.com/badge/user/018ccb09-df8b-4073-a613-7ec46231e3e2.svg)](https://wakatime.com/@018ccb09-df8b-4073-a613-7ec46231e3e2)
