@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=golibnarzullayev" alt="GolibNarzullayev" /> </p>
 
-# Most used technologies and statistic my github
+# Most used technologies and statistics my github
 ![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-082032?style=for-the-badge&logo=Express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB&logoColor=47A248)
