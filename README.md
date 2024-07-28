@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=golibnarzullayev" alt="GolibNarzullayev" /> </p>
 
-#Most used Languages and statistic my github
+# Most used Languages and statistic my github
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=golibnarzullayev&show_icons=true&locale=en&layout=compact" alt="golibnarzullayev" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=golibnarzullayev" alt="golibnarzullayev" />
