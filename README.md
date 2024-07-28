@@ -11,6 +11,7 @@
 
 #Most used Languages and statistic my github
 <p>
+  ![Node.js](https://github-readme-stats.vercel.app/api/top-langs?username=golibnarzullayev&show_icons=true&locale=en&layout=compact)
   ![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs?username=golibnarzullayev&show_icons=true&locale=en&layout=compact)
   ![github-readme-streak](https://github-readme-streak-stats.herokuapp.com/?user=golibnarzullayev)
 </p>
