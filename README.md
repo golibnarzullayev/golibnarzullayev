@@ -12,7 +12,7 @@
 <h1>Most used Languages and statistic my github</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golibnarzullayev&show_icons=true&locale=en&layout=compact" alt="GolibNarzullayev" /></p> <br /> <br />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=golibnarzullayev&" alt="GolibNarzullayev" /></p> <br />
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=golibnarzullayev&" alt="GolibNarzullayev" /></p>
 
-<h1>Wakatime</h1>
+# Wakatime
 [![wakatime](https://wakatime.com/badge/user/018ccb09-df8b-4073-a613-7ec46231e3e2.svg)](https://wakatime.com/@018ccb09-df8b-4073-a613-7ec46231e3e2)
