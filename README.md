@@ -10,7 +10,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-082032?style=for-the-badge&logo=Redis&logoColor=47A248)
 
 # Most used Languages
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golibnarzullayev&show_icons=true&locale=en&layout=compact" alt="rasulovn" /> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs username=golibnarzullayev&show_icons=true&locale=en&layout=compact" alt="rasulovn" /></p>
 
 # Statistic my github
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golibnarzullayev&" alt="rasulovn" /></p>
