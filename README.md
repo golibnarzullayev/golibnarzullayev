@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm G'olibjon</h1>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rasulovn" alt="rasulovn" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=golibnarzullayev" alt="rasulovn" /> </p>
 
 ##  Narzullayev G'olib | Nodejs backend developer
 ![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=339933)
