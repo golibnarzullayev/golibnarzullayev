@@ -1,6 +1,6 @@
 # Narzullayev G'olib | Nodejs backend developer
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=golibnarzullayev" alt="GolibNarzullayev" /> </p>
+<p align="left"> <img src="https://github-trophies.vercel.app/?username=golibnarzullayev" alt="GolibNarzullayev" /> </p>
 
 # Most used technologies and statistics my github
 ![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=339933)
