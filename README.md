@@ -11,7 +11,6 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=golibnarzullayev&show_icons=true&locale=en&layout=compact" alt="golibnarzullayev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golibnarzullayev" alt="golibnarzullayev" />
 </p>
 
 # Wakatime
