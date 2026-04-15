@@ -15,3 +15,6 @@
 
 # Wakatime
 [![wakatime](https://wakatime.com/badge/user/018ccb09-df8b-4073-a613-7ec46231e3e2.svg)](https://wakatime.com/@018ccb09-df8b-4073-a613-7ec46231e3e2)
+
+#gitbot
+[![Streak](https://gitbot.narzullayev.uz/api/profile/u/golibnarzullayev/streak.svg)](https://gitbot.narzullayev.uz/profile/golibnarzullayev)
